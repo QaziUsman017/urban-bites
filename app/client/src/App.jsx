@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Admin from './Admin'
 import './App.css'
 
-const API_URL = 'http://localhost:5001/api'
+const API_URL = 'https://urban-bites-production.up.railway.app/api'
 
 const menuItems = [
   {
