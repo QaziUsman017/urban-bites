@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import './Admin.css'
 
-const API_URL = 'http://localhost:5001/api/orders'
+const API_URL = 'https://urban-bites-production.up.railway.app/api/orders'
 
 const STATUS_OPTIONS = [
   'Pending',
